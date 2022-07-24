@@ -1,0 +1,39 @@
+.contented-holder
+{
+
+    text-align: center;
+    position: relative;
+    height:1000px;
+
+}
+.modalBoxBtn
+{
+ width:60px;
+ height:60px;
+ border-radius:20px;
+}
+.modal
+{
+    position: absolute;
+    background-color: rgb(157, 233, 233);
+    width:50%;
+ 
+    display:none;
+    margin-left:25%;
+   font-size:20px;
+}
+
+.modal-navbar
+{
+    background-color: rgb(135, 135, 255);
+    height:50px;
+}
+.modal-contened
+{
+    height:60px;
+}
+.modal-footer
+{
+    background-color:rgb(122, 235, 235);
+    height:20px;
+}
